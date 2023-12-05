@@ -45,6 +45,9 @@ git clone https://github.com/severloth/mailup-using-api
 <h2>Instala las dependencias:</h2>
 	composer install
 
+ <h2>Acceder al directorio</h2>
+    cd mailup-using-api
+
 <h2>Migra la base de datos para obtener la tabla photos:</h2>
 	php artisan migrate (o migrate:refresh)
 	
