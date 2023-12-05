@@ -40,7 +40,7 @@ Para eso se realizó un comando en el schedule y se ejecuta mediante el Kernel d
 Entonces los pasos a seguir para el consumo de la api externa son:
 
 <h2>Clona el repositorio de GitHub:</h2>
-git clone https://github.com/severloth/using-api-mailup
+git clone https://github.com/severloth/mailup-using-api
 
 <h2>Instala las dependencias:</h2>
 	composer install
